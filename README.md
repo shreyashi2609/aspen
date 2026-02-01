@@ -2,8 +2,11 @@
 ## Autonomous Sentry for Payment Erroneous Networks.
 
 0. Prerequisite
+
 Create a .env file and generate a (groq api key)[https://console.groq.com/keys]
+
 Then put this in the .env file: `GROQ_API_KEY=YOUR_API_KEY`
+
 
 1. Backend Environment Setup
 Create a virtual environment to isolate the Python dependencies.
