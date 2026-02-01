@@ -135,7 +135,7 @@ const App = () => {
     <div className="app-container">
       <div className="header-wrapper">
         <div className="brand-container">
-          <div className="brand-title">Sentinel Ops</div>
+          <div className="brand-title">A.S.P.E.N</div>
           <div className="brand-subtitle">Autonomous Orchestration</div>
         </div>
         <div className={`status-badge ${status === "ACTION_REQUIRED" ? "status-alert" : ""}`}>
